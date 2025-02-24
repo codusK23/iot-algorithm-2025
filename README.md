@@ -95,9 +95,12 @@ https://github.com/user-attachments/assets/facd32a9-6ac5-4074-934e-11ae92e5b876
         - 퀵 정렬
         - 정렬 알고리즘 응용
 
+    <img src="./image/da002.png" width="600">
+
     - 동적 계획법
 
 ## 8일차
 - 자료구조/알고리즘
-    - 검색
+    - 검색 : [노트북](./day08/da01_search.ipynb)
+        - 검색 구현 : [파이썬](./day08/)
     - 코딩테스트
